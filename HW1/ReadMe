@@ -1,7 +1,7 @@
 
 
-Screen Shot 2018-03-18 at 9.52.12 PM.png
 
+![Optional Text](Screen Shot 2018-03-18 at 9.52.12 PM.png)
 In this project, your Pac-Man agent will find paths through its maze world, both to reach a particular location and
 to collect food efficiently. You will build general search algorithms and apply them to Pac-Man scenarios.
 This is a somewhat long project with several components. You are advised to start early!
